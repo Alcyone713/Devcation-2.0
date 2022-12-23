@@ -74,6 +74,9 @@ html{
 }
 #div4{
     background-color: #043457;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 #div4 .event img{
     width: 200px;
@@ -111,6 +114,9 @@ html{
 }
 #div5{
     background-color: #043457;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 #div5 button{
     background-color: #C64C45;
@@ -133,6 +139,9 @@ html{
 }
 #div6{
     background-color: #043457;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 #div6 .projects{
     display: flex;
