@@ -1163,10 +1163,10 @@ section {
 
 #pricing .card {
   border: 0;
-  border-radius: 0px;
+  border-radius: 5px;
   box-shadow: 0 3px 0px 0 rgba(65, 62, 102, 0.08);
   transition: all 0.3s ease-in-out;
-  padding: 36px 0;
+  padding: 30px 0;
   position: relative;
 }
 
@@ -1202,6 +1202,9 @@ section {
   -moz-text-align-last: center;
   text-align-last: center;
 }
+ #pricing .card .card-header img{
+  width: 250px;
+ }
 
 #pricing .card .card-title {
   margin-bottom: 16px;
